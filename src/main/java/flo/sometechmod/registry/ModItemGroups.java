@@ -18,6 +18,8 @@ public class ModItemGroups
             {
                 entries.add(ModItems.TIN_INGOT);
                 entries.add(ModItems.RAW_TIN);
+                entries.add(ModBlocks.TIN_ORE);
+                entries.add(ModBlocks.DEEPSLATE_TIN_ORE);
             })
             .build());
 

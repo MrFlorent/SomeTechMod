@@ -2,5 +2,8 @@
   "item.sometechmod.tin_ingot": "Tin Ingot",
   "item.sometechmod.raw_tin": "Raw Tin",
 
+  "block.sometechmod.tin_ore": "Tin Ore",
+  "block.sometechmod.deepslate_tin_ore": "Deepslate Tin Ore",
+
   "itemgroup.sometechmod_group": "SomeTechMod"
 }

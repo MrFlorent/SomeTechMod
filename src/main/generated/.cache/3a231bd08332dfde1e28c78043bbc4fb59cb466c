@@ -1,3 +1,9 @@
-// 1.20.1	2024-02-19T19:31:21.6420324	SomeTechMod/Model Definitions
+// 1.20.1	2024-02-20T17:02:50.9855294	SomeTechMod/Model Definitions
 a7cba681c75dda14433c092ac6bf64e8a9aa840a assets\sometechmod\models\item\raw_tin.json
+75a063cb44247aa082a2d3fa59887593eae6c318 assets\sometechmod\blockstates\tin_ore.json
+dc1dfcfd21712effe6f32acc48a0be5701f11dc9 assets\sometechmod\models\item\deepslate_tin_ore.json
+820704720eaffac34cd9548a9e7eb795d5ee83af assets\sometechmod\models\block\deepslate_tin_ore.json
+3ff9211c3e26a89ed9a35b43963a6bb50b80f42f assets\sometechmod\models\item\tin_ore.json
+f23dc16da1365a56f8285fb3825476dde988fa99 assets\sometechmod\models\block\tin_ore.json
 cf5f86da87bddeb3d17401ceda402acc398f9dda assets\sometechmod\models\item\tin_ingot.json
+ba7960c5a6fdc04695ed6f2f4dd0526edc3f3256 assets\sometechmod\blockstates\deepslate_tin_ore.json

@@ -1,5 +1,6 @@
 package flo.sometechmod;
 
+import flo.sometechmod.registry.ModBlocks;
 import flo.sometechmod.registry.ModItemGroups;
 import flo.sometechmod.registry.ModItems;
 import net.fabricmc.api.ModInitializer;
@@ -16,6 +17,7 @@ public class SomeTechMod implements ModInitializer
 	public void onInitialize()
 	{
 		ModItems.registerModItems();
+		ModBlocks.registerModBlocks();
 
 		ModItemGroups.registerModItemGroup();
 	}
