@@ -1,7 +1,7 @@
 package flo.sometechmod.registry;
 
 import flo.sometechmod.SomeTechMod;
-import flo.sometechmod.entity.CrusherBlockEntity;
+import flo.sometechmod.blockentity.CrusherBlockEntity;
 import net.fabricmc.fabric.api.object.builder.v1.block.entity.FabricBlockEntityTypeBuilder;
 import net.minecraft.block.entity.BlockEntityType;
 import net.minecraft.registry.Registries;

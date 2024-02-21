@@ -1,4 +1,4 @@
-package flo.sometechmod.entity.handler;
+package flo.sometechmod.blockentity.handler;
 
 import net.minecraft.entity.player.PlayerEntity;
 import net.minecraft.inventory.Inventories;

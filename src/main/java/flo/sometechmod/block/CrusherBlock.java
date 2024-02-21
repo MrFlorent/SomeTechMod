@@ -1,6 +1,6 @@
 package flo.sometechmod.block;
 
-import flo.sometechmod.entity.CrusherBlockEntity;
+import flo.sometechmod.blockentity.CrusherBlockEntity;
 import net.minecraft.block.BlockEntityProvider;
 import net.minecraft.block.BlockState;
 import net.minecraft.block.BlockWithEntity;
