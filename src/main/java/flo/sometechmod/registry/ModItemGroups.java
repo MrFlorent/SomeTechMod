@@ -20,10 +20,12 @@ public class ModItemGroups
                 entries.add(ModItems.RAW_TIN);
                 entries.add(ModBlocks.TIN_ORE);
                 entries.add(ModBlocks.DEEPSLATE_TIN_ORE);
+
+                entries.add(ModBlocks.CRUSHER_BLOCK);
             })
             .build());
 
-    public static void registerModItemGroup()
+    public static void register()
     {
         SomeTechMod.LOGGER.info("Registering Mod Item Group from " + SomeTechMod.MOD_ID);
     }

@@ -1,5 +1,6 @@
 package flo.sometechmod;
 
+import flo.sometechmod.registry.ModBlockEntities;
 import flo.sometechmod.registry.ModBlocks;
 import flo.sometechmod.registry.ModItemGroups;
 import flo.sometechmod.registry.ModItems;
@@ -16,9 +17,10 @@ public class SomeTechMod implements ModInitializer
 	@Override
 	public void onInitialize()
 	{
-		ModItems.registerModItems();
-		ModBlocks.registerModBlocks();
+		ModItems.register();
+		ModBlocks.register();
+		ModBlockEntities.register();
 
-		ModItemGroups.registerModItemGroup();
+		ModItemGroups.register();
 	}
 }

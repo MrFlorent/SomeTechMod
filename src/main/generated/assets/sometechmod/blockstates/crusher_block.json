@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "sometechmod:block/crusher_block"
+    }
+  }
+}

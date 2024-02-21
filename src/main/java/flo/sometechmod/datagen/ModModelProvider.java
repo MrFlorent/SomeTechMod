@@ -21,6 +21,9 @@ public class ModModelProvider extends FabricModelProvider
         // SimpleCubeAll for when all faces share the same texture.
         blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.TIN_ORE);
         blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.DEEPSLATE_TIN_ORE);
+
+        // WIP
+        blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.CRUSHER_BLOCK);
     }
 
     @Override
