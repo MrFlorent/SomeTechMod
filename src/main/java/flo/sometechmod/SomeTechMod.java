@@ -1,9 +1,6 @@
 package flo.sometechmod;
 
-import flo.sometechmod.registry.ModBlockEntities;
-import flo.sometechmod.registry.ModBlocks;
-import flo.sometechmod.registry.ModItemGroups;
-import flo.sometechmod.registry.ModItems;
+import flo.sometechmod.registry.*;
 import net.fabricmc.api.ModInitializer;
 
 import org.slf4j.Logger;
@@ -19,7 +16,9 @@ public class SomeTechMod implements ModInitializer
 	{
 		ModItems.register();
 		ModBlocks.register();
+
 		ModBlockEntities.register();
+		ModScreens.register();
 
 		ModItemGroups.register();
 	}

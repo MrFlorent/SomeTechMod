@@ -18,6 +18,9 @@
 		"main": [
 			"flo.sometechmod.SomeTechMod"
 		],
+		"client": [
+			"flo.sometechmod.SomeTechModClient"
+		],
 		"fabric-datagen": [
 			"flo.sometechmod.SomeTechModDataGenerator"
 		]
